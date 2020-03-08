@@ -17,6 +17,8 @@ public class FirstSeleniumApp {
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getTitle());
 		driver.close();
+
+		System.out.println(" To Check The Git");
 	}
 
 }
